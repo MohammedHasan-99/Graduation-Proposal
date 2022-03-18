@@ -50,5 +50,3 @@ start understanding the theoritical consepts of deep learning and computer visio
 
 
 
-
-
